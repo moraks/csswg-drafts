@@ -12,7 +12,7 @@
 <text transform="matrix(1 0 0 1 42.3008 146.2114)" fill="#FF0000" font-family="'Arial'" font-size="12px" text-decoration=" underline">العربية</text>
 <text transform="matrix(1 0 0 1 42.3008 166.2676)" fill="#FF0000" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="12px" text-decoration=" underline">日本語</text>
 <line fill="#FFFFFF" stroke="#333333" stroke-width="3" x1="22.3" y1="193.5" x2="22.3" y2="22"/>
-<text transform="matrix(0 -1 1 0 11.1523 193.6221)" font-family="'Arial'" font-weight="700" font-size="13px" letter-spacing="0.5px" letter-spacing="0.5px">DOCUMENT START (LTR)</text>
+<text transform="matrix(0 -1 1 0 11.1523 193.6221)" font-family="'Arial'" font-weight="700" font-size="13px" letter-spacing="0.5px">DOCUMENT START (LTR)</text>
 <g>
 	<rect x="20.8" fill="#EFEFEF" width="183" height="12"/>
 	<text transform="matrix(1 0 0 1 80.577 10.1289)" fill="#6D6D6D" font-family="'Arial'" font-size="10px" letter-spacing="0.5px">INLINE AXIS</text>
